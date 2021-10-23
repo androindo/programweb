@@ -16,9 +16,9 @@
 */
 
 body {
-  background-color: #a44c9f;
+  background-color: #84a44c;
   color: #666;
-  font-size: 16px;
+  font-size: 12px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   line-height: 1.50;
@@ -86,7 +86,7 @@ table {
 }
 #logo h1 {
   font-family: 'Quirlycues';
-  font-size: 72px;
+  font-size: 55px;
   font-weight: normal;
   padding-top: 24px;
   color: #f9f9f9;
@@ -110,10 +110,10 @@ table {
 }
 .category-item {
   border: 2px;
-  border-color: #ff58df;
+  border-color: #6495ED;
   border-radius: 2.5px;
   border-style: solid !important;
-  background-color: #a44c9f;
+  background-color: #84a44c;
   color: #f9f9f9;
   font-weight: bold;
   margin-top: 6px;
@@ -211,7 +211,7 @@ table {
   box-shadow: 0 1px 0 rgba(0,0,0,.15);
 }
 .recipe-info i {
-  color: #a44c9f;
+  color: #84a44c;
 }
 .recipe-ingredients {
   background-color: #f9f9f9;
@@ -244,7 +244,7 @@ table {
   font-size: 13px;
   line-height: 37px;
   font-weight: 600;
-  background: #a44c9f;
+  background: #84a44c;
   color: #f9f9f9;
   -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.15);
   -moz-box-shadow: 0 1px 0 rgba(0,0,0,.15);
@@ -284,7 +284,7 @@ table {
     left: -2.5em;
     top: 50%;
     margin-top: -1em;
-    background: #a44c9f;
+    background: #84a44c;
     height: 2em;
     width: 2em;
     line-height: 2em;
@@ -303,7 +303,7 @@ table {
 }
 .recipe-directions li:hover:after{
     left: -.5em;
-    border-left-color: #a44c9f;
+    border-left-color: #84a44c;
 }
 
 /*
@@ -312,7 +312,7 @@ table {
 */
 
 footer {
-  background-color: #a44c9f;
+  background-color: #84a44c;
   color: #f9f9f9;
   margin-bottom: 24px;
   margin-top: 24px;
