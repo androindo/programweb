@@ -16,7 +16,7 @@
 */
 
 body {
-  background-color: #84a44c;
+  background-color: #736e99;
   color: #666;
   font-size: 12px;
   font-family: 'Montserrat', sans-serif;
@@ -110,10 +110,10 @@ table {
 }
 .category-item {
   border: 2px;
-  border-color: #6495ED;
+  border-color: #818f68;
   border-radius: 2.5px;
   border-style: solid !important;
-  background-color: #84a44c;
+  background-color: #93a575;
   color: #f9f9f9;
   font-weight: bold;
   margin-top: 6px;
@@ -143,7 +143,7 @@ table {
   margin-bottom: 12px;
 }
 #items h3 {
-  margin-top: 12px;
+  margin-top: 10px;
   color: #666;
 }
 .recipe-item {
